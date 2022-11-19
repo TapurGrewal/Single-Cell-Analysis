@@ -22,7 +22,7 @@ PROCEDURE:
 11. Cell type annotation.
 
 Result Interpretation:
-Some plots that we have generated based on dimension reduction technique, the Dimensionality Reduction is the process of reducing the number of features to the most relevant ones in simple terms.
+Some plots that generated based on dimension reduction technique, the Dimensionality Reduction is the process of reducing the number of features to the most relevant ones in simple terms.
 
 PCA (Principal Component Analysis):
 Using DimHeatMap() we analysis by creating different heatmap,and genes are sorted by their score
