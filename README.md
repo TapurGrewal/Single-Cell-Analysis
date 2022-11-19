@@ -21,4 +21,12 @@ PROCEDURE:
 10. Visualize 'features' on a dimensional reduction plot.
 11. Cell type annotation.
 
+Result Interpretation:
+Some plots that we have generated based on dimension reduction technique, the Dimensionality Reduction is the process of reducing the number of features to the most relevant ones in simple terms.
 
+PCA (Principal Component Analysis):
+Using DimHeatMap() we analysis by creating different heatmap,and genes are sorted by their score
+
+UMAP (Uniform Manifold Approximation and Projection):
+UMAP is a nonlinear dimensionality reduction method, it is very effective for visualizing clusters or groups of data points and their relative proximities.
+Different clusters are also marked in the plot.
