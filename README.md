@@ -5,6 +5,7 @@ In RNA-seq single cell analysis we analyse 10X Chromium single-cell RNA-seq prof
 The main part of the workflow uses the package SEURAT which is designed for QC, analysis, and exploration of single-cell RNA-seq data. Seurat aims to enable users to identify and interpret sources of heterogeneity from single-cell transcriptomic measurements, and to integrate diverse types of single-cell data.
 
 File link: https://www.ncbi.xyz/geo/query/acc.cgi?acc=GSM6601966
+
 CSV File: GSM6601966_p1001_raw_counts.csv.gz
 
 PROCEDURE:
